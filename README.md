@@ -90,3 +90,5 @@ module.exports = {
 - [ ] Add husky for pre-commit hooks
 - [ ] Add jest and enzyme for testing
 - [ ] Add bootstrap for styling 
+- [ ] React router
+- [ ] React hooks
