@@ -82,6 +82,7 @@ module.exports = {
 - https://medium.com/@brygrill/create-react-app-with-typescript-eslint-prettier-and-github-actions-f3ce6a571c97
 - https://create-react-app.dev/docs/adding-a-sass-stylesheet/
 - https://reactjs.org/docs/code-splitting.html#route-based-code-splitting
+- https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project
 
 ## Todo
 
@@ -93,3 +94,5 @@ module.exports = {
 - [ ] Add bootstrap for styling 
 - [ ] React router
 - [ ] React hooks
+- [ ] Mock server
+- [ ] Axios
