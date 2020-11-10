@@ -83,6 +83,7 @@ module.exports = {
 - https://create-react-app.dev/docs/adding-a-sass-stylesheet/
 - https://reactjs.org/docs/code-splitting.html#route-based-code-splitting
 - https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project
+- https://blog.harveydelaney.com/setting-up-a-mock-api-for-your-front-end-react-project/
 
 ## Todo
 
@@ -91,7 +92,7 @@ module.exports = {
 - [x] There should be linting on scss
 - [x] Add husky for pre-commit hooks
 - [ ] Add jest and enzyme for testing
-- [ ] Add bootstrap for styling 
+- [x] Add bootstrap for styling 
 - [ ] React router
 - [ ] React hooks
 - [ ] Mock server
