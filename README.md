@@ -88,8 +88,8 @@ module.exports = {
 
 - [x] Generate an app with typescript
 - [x] There should be linting on typescript
-- [ ] There should be linting on scss
-- [ ] Add husky for pre-commit hooks
+- [x] There should be linting on scss
+- [x] Add husky for pre-commit hooks
 - [ ] Add jest and enzyme for testing
 - [ ] Add bootstrap for styling 
 - [ ] React router

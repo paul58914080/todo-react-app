@@ -10,6 +10,7 @@
     "@types/node": "^12.19.3",
     "@types/react": "^16.9.56",
     "@types/react-dom": "^16.9.9",
+    "bootstrap": "^4.5.3",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
@@ -24,7 +25,7 @@
     "test:once": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject",
     "lint:styles": "stylelint src/**/*.scss",
-    "lint:ts": "tsc --noEmit && eslint src/**/*.ts{,x}",
+    "lint:ts": "tsc --noEmit && eslint 'src/**/*.ts{,x}' --quiet --fix",
     "lint": "run-p lint:styles lint:ts",
     "format": "prettier --write src/**/*.ts{,x}",
     "format:all": "run-s format lint"
