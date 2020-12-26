@@ -62,7 +62,7 @@ module.exports = {
   },
 };
 ```
-
+~~~~
 5. Add to scripts(`package.json`)
 
 ```json
@@ -76,6 +76,13 @@ module.exports = {
 6. Add sass
 
 **`yarn add node-sass@4.14.1`**
+
+
+## Generate components
+
+https://www.npmjs.com/package/generate-react-cli
+
+**`npx generate-react-cli component Box`**
 
 ## Reference
 
