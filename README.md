@@ -1,5 +1,13 @@
 # todo app
 
+## How to build ?
+
+`yarn install`
+
+## How to start ?
+
+`yarn start`
+
 ## How did I creat this structure ?
 
 1. Create a react app with template as typescript
@@ -62,7 +70,7 @@ module.exports = {
   },
 };
 ```
-~~~~
+
 5. Add to scripts(`package.json`)
 
 ```json
@@ -103,4 +111,4 @@ https://www.npmjs.com/package/generate-react-cli
 - [ ] React router
 - [ ] React hooks
 - [ ] Mock server
-- [ ] Axios
+- [x] Axios
